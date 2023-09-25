@@ -1,0 +1,19 @@
+.cla {
+    background-color: rgb(209, 109, 109);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#num2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.cla1 {
+    font-size: 24px;
+}
+
+#num4 {
+    background-color: rgb(109, 209, 111);
+    font-size: 24px;
+    font-weight: bold;
+}
